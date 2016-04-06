@@ -1,4 +1,9 @@
 name: johanstuijt66 on GitHub
 defaults:
-  - title: Johan on GitHub
+  - 
+    scope:
+      path: ""
+    values:
+      title: "Johan on GitHub"
+      
   
